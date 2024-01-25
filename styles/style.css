@@ -104,7 +104,7 @@ ol {
 }
 
 .preloader {
-  position: absolute;
+  position: relative;
 }
 
 .title {
