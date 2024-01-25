@@ -1,1 +1,1 @@
-[Проект "Посмотри в окно"](https://github.com/Taccita/posmotri_v_okno) 
+https://github.com/Taccita/posmotri_v_okno
