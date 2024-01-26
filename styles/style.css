@@ -57,6 +57,7 @@ ol {
 .content__list {
   height: 291px;
   overflow: auto;
+  position: relative;
 }
 
 .content__details {
